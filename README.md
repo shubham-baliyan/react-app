@@ -1,6 +1,13 @@
 # React-App
 A react app using github-api's for data
 
+##Link to Github Api
+https://developer.github.com/v3/
+
+## Data Used from Api
+#### repos data
+#### user data
+
 ## To Start development Server
 ```
 npm start
