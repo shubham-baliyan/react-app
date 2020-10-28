@@ -7,6 +7,10 @@ https://developer.github.com/v3/
 ## Data Used from Api
 #### repos data
 #### user data
+## To install packages
+```
+npm i
+```
 
 ## To Start development Server
 ```
