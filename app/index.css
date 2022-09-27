@@ -36,13 +36,13 @@ li {
   background: transparent;
 }
 .nav-link {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: bold;
   text-decoration: none;
   color: inherit;
 }
 .nav li {
-  margin-right: 10px;
+  margin-right: 50px;
 }
 .grid {
   display: flex;
@@ -55,7 +55,7 @@ li {
   justify-content: space-between;
 }
 .header-lg {
-  font-size: 35px;
+  font-size: 30px;
   font-weight: 300;
   margin: 20px;
 }
