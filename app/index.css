@@ -16,7 +16,7 @@ li {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 100px;
   margin: 0 auto;
   padding: 50px;
 }
@@ -55,7 +55,7 @@ li {
   justify-content: space-between;
 }
 .header-lg {
-  font-size: 35px;
+  font-size: 30px;
   font-weight: 300;
   margin: 20px;
 }
